@@ -1,0 +1,5 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+requests==2.26.0
+streamlit==1.8.0
+traci  # TraCI for SUMO communication

@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="D:/project/Traffic_SMU/road_network.net.xml"/>
+        <!-- Add other input parameters as needed -->
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <!-- Set the simulation time as needed -->
+    </time>
+    <!-- Add other configuration parameters as needed -->
+</configuration>
